@@ -1,4 +1,4 @@
-# Superstore Sales & Profit Analysis — Tableau Dashboard #
+# Superstore Sales & Profit Analysis — Tableau Project#
 
 Interactive dashboard built in Tableau Desktop Public Edition, analyzing 2017 order data across Category, Sub-Category, Region, and Segment for a retail superstore dataset.
 
